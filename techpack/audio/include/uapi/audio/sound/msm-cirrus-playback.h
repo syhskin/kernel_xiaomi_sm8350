@@ -15,6 +15,7 @@
 
 #include <linux/types.h>
 #include <linux/ioctl.h>
+#include <stdint.h>
 
 
 #define CIRRUS_SP			0x10027053
